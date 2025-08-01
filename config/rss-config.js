@@ -14,13 +14,13 @@
 export const config = {
   sources: [
     {
-      name: "Hacker News 近期最佳",
-      url: "https://hnrss.org/best",
+      name: "少数派",
+      url: "https://feedma.zeabur.app/sspai/index",
       category: "科技资讯",
     },
     {
-      name: "iDownloadBlog",
-      url: "http://feeds.feedburner.com/iphonedlb",
+      name: "36氪 - 24小时热榜",
+      url: "https://feedma.zeabur.app/36kr/hot-list",
       category: "科技资讯",
     }
   ],
