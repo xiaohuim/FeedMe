@@ -17,6 +17,11 @@ export const config = {
       name: "Hacker News 近期最佳",
       url: "https://hnrss.org/best",
       category: "科技资讯",
+    },
+    {
+      name: "iDownloadBlog",
+      url: "http://feeds.feedburner.com/iphonedlb",
+      category: "科技资讯",
     }
   ],
   maxItemsPerFeed: 30,
